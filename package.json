@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "0.0.1",
+  "description": "calculator using server",
+  "main": "calci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node calci.js"
+  },
+  "author": "yash sharma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "readline-sync": "^1.4.7"
+  }
+}
